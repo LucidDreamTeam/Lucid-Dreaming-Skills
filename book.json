@@ -1,2 +1,5 @@
 {
+    "styles": {
+        "website": "website.css"
+    }
 }
