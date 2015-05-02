@@ -1,0 +1,138 @@
+@import (inline) "../vendors/skeleton/css/normalize.css";
+@import (inline) "../vendors/skeleton/css/skeleton.css";
+
+@readme-padding: 25px 0px;
+
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+body {
+    font-size: 1.5em;
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: 'Open Sans', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #222;
+}
+
+.intro {
+    background: #f5f5f5;
+    padding: 40px 0px;
+
+    @media (max-width: 550px) {
+        padding: 20px 0px;
+    }
+}
+
+.body {
+    padding: 30px 0px;
+}
+
+hr.transparent {
+    border-color: transparent;
+}
+
+.cover img {
+    width: 100%;
+    max-width: 400px;
+    margin: 0px auto;
+    display: block;
+    border: 1px solid #dae0e5;
+
+    @media (max-width: 550px) {
+        margin-bottom: 30px;
+    }
+}
+
+.infos {
+    h1 {
+        font-weight: bold;
+        font-size: 7rem;
+        letter-spacing: -2px;
+        margin: 0px;
+        color: #242526;
+
+        @media (max-width: 550px) {
+            text-align: center;
+        }
+    }
+
+    p {
+        &.author {
+            @media (max-width: 550px) {
+                text-align: center;
+                margin-top: 15px;
+            }
+        }
+
+        &.description {
+            font-size: 2.4rem;
+            font-weight: 300;
+            padding: 25px 0px;
+            margin: 0px;
+        }
+    }
+}
+
+.actions {
+    margin: 0px 0px 30px;
+}
+
+.sharing {
+    text-align: center;
+
+    .share-box {
+        display: inline-block;
+        margin: 10px 5px;
+    }
+}
+
+.mailing {
+    text-align: center;
+    margin: 0px auto;
+
+    input {
+        height: 38px;
+    }
+
+    p {
+        color: rgba(0,0,0,0.3);
+        font-weight: 300;
+    }
+}
+
+.reviews {
+    .review {
+        margin: 15px;
+    }
+}
+
+.readme {
+    font-size: 1.7rem;
+
+    section {
+        margin: @readme-padding;
+
+        img {
+            max-width: 100%;
+        }
+
+        &:first-child > h1:first-child {
+            display: none;
+        }
+    }
+}
+
+.footer {
+    margin-top: 25px;
+    padding-top: 25px;
+    border-top: 1px solid rgba(0,0,0,0.05);
+    text-align: center;
+    color: #ddd;
+
+    a {
+        color: rgba(0,0,0,0.3);
+        text-decoration: none;
+    }
+}
