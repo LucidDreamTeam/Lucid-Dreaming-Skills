@@ -8,4 +8,4 @@
     * [Free Fall](1translations/freefall.md)
     * [Naiya's DILD & WILD Secrets](1translations/naiya.md)
     * [SSILD](1translations/SSILD.md)
-    * [мой самоучитель](4chapter/dayone01.md)
+    * [Мой самоучитель](4chapter/dayone01.md)
