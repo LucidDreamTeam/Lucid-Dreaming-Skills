@@ -1,4 +1,7 @@
-Crash Course Tutorial: part 1 «attaining lucidity»
+## Crash Course Tutorial: part 1 «attaining lucidity»
+
+![картика](https://dayone.me/api/media/210451/c4ae25e09dcc2dafadf5eb07d02b36d9.jpg)
+
 
 ##### Please pay attention to this entire text.  
 To begin and advance your practice of dream lucidity, we urge you to metodically follow these three [routines](http://www.dreamviews.com/induction-techniques/61802-naiyas-dild-wild-secrets.html#post850574): one for daytime, bedtime and waking each. Practice includes: training your awareness during the day; keeping a dream journal; day rewatch; stable and ideally biphasic sleep-wake cycle; and performing **SSILD** in the morning. All of these are explained further.  
