@@ -1,7 +1,7 @@
 Техника Прямого Входа "Фри Фол" от Jeff777
 > Оригинал – [Jeff777's Free-falling WILD technique!](http://www.dreamviews.com/wake-initiated-lucid-dreams-wild/116172-jeff777s-free-falling-wild-technique.html)
 
-![](assets/1zqad5v.jpg)
+![](/assets/1zqad5v.jpg)
 
 Первый шаг - Свободное падение я не пишу "фри-фол", хотя это слово существует в русской речи, т.к. не все с ним сталкивались
 Отложенный метод в сочетании с этой техникой увеличивает шансы успеха. 

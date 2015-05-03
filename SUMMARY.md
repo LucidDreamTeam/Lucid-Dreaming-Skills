@@ -6,6 +6,7 @@
     * [Советы Naiya](1translations/naiya.md)
     * [Finger Induced LD](1translations/FILD.md)
     * [Круглосуточная внимательность](1translations/ADA.md)
-    * [Free Fall](1translations/freefall.md)
-    * [SSILD](1translations/SSILD.md)
+    * [Прямой вход Free Fall](1translations/freefall.md)
+    * [Техника SSILD](1translations/SSILD.md)
+    
     * [Мой самоучитель](4chapter/dayone01.md)
