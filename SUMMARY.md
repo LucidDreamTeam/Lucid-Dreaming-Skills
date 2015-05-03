@@ -1,7 +1,7 @@
-# Summary
+     # Summary
 * [Об этой книге](README.md)
-    * [Вступление, FAQ](0chapter/FAQ.md)
-    * [Рекомендации](0chapter/recommendations.md)
+   * [Вступление, FAQ](0chapter/FAQ.md)
+   * [Рекомендации](0chapter/recommendations.md)
 * [Legacy](1classic/legacy.html)
     * [Рука@дневник](1classic/classic.md)
 * [Переводы статей](1translations/translations.md)
