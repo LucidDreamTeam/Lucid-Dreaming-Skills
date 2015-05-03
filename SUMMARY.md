@@ -1,9 +1,8 @@
      # Summary
 * [Об этой книге](README.md)
-   * [Вступление, FAQ](0chapter/FAQ.md)
-   * [Рекомендации](0chapter/recommendations.md)
-* [Legacy](1classic/classic.md)
-    * [Рука@дневник](1classic/classic.md)
+    * [Вступление, FAQ](0chapter/FAQ.md)
+    * [Рекомендации](0chapter/recommendations.md)
+    * [Рука-дневник](0Chapter/classic.md)
 * [Переводы статей](1translations/translations.md)
     * [Советы Naiya](1translations/naiya.md)
     * [Finger Induced LD](1translations/FILD.md)
