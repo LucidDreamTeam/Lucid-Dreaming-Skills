@@ -9,9 +9,10 @@
 
 В ближайшем будущем добавятся:
 
-* Домашние задания, челленджи, проекты совместных исследований 
+* Домашние задания, челленджи, проекты совместных исследований; 
 * Литобзор состояния науки о ясных снах.
 
-Книга свёрстана как стандартный Gitbook, поэтому её можно скачать в форматах ePub, MOBI и PDF.
+Книга свёрстана как стандартный Gitbook, поэтому её можно скачать в форматах [ePub](https://www.gitbook.com/download/epub/book/lucid/lds), [MOBI]((https://www.gitbook.com/download/mobi/book/lucid/lds)) и [PDF](https://www.gitbook.com/download/pdf/book/lucid/lds).
 
+Приветствуется сотрудничество. Загляните в наш [репозиторий](https://github.com/LucidDreamTeam/Lucid-Dreaming-Skills)!
 ----
