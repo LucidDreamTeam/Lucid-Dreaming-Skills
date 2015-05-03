@@ -5,8 +5,9 @@
 * [Переводы статей](1translations/translations.md)
     * [Советы Naiya](1translations/naiya.md)
     * [Finger Induced LD](1translations/FILD.md)
-    * [Круглосуточная внимательность](1translations/ADA.md)
+    * [Постоянная внимательность](1translations/ADA.md)
     * [Прямой вход Free Fall](1translations/freefall.md)
-    * [Техника SSILD](1translations/SSILD.md)
+    * [Техника SSILD (v0.9)](1translations/SSILD.md)
     
-    * [Мой самоучитель](4chapter/dayone01.md)
+     [Мой самоучитель](5textor/dayone01.md)
+     [Проблема с терминами](5textor/terminology.md)
