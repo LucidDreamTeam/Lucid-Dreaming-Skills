@@ -9,6 +9,9 @@
     * [Постоянная внимательность](1translations/ADA.md)
     * [Прямой вход Free Fall](1translations/freefall.md)
     * [Техника SSILD (v0.9)](1translations/SSILD.md)
-    
+* [Наработки анонов](4community/intro.md)
+    * [Рука для углубления](4community/hand.md)
+    * [Шаблон статьи](4community/hig.md)
+
      [Мой самоучитель](5textor/dayone01.md)
      [Проблема с терминами](5textor/terminology.md)
