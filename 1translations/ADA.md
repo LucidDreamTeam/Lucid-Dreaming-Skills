@@ -63,5 +63,5 @@ If you give ADA a shot, be sure to post any progress, questions, or comments bel
 
 [^2]:	Я не согласен с ним: серьёзное эмоциональное сомнение имеет смысл. До того, как у меня появились действительно ясные сны, я бессознательно верил, что реальность по ощущениям совершенно непохожа даже на самый реалистичный сон, что она более, хм, безусловна и плотна. Поэтому, несмотря на все гайды и старание «представить, что это сон» - халтурил, делая руку, ну не верилось мне. Оказывается, сны бывают ТОЧНО такими же, как самая жизненная жизнь, и даже представлять ничего не надо. С тех пор я гораздо меньше халтурю и больше осознаюсь.
 
-[1]:	http://www.dreamviews.com/induction-techniques/113253-all-day-awareness-dild-tutorial-kingyoshi.html "All Day Awareness"
+[1]:	http://www.dreamviews.com/induction-techniques/113253-all-day-awareness-dild-tutorial-kingyoshi.html
 [2]:	1translations/naiya.md
