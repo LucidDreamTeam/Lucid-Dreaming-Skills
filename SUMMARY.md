@@ -9,6 +9,7 @@
     * [Постоянная внимательность](1translations/ADA.md)
     * [Прямой вход Free Fall](1translations/freefall.md)
     * [Техника SSILD (v0.9)](1translations/SSILD.md)
+    * [Техника SSILD (2015)](1translations/SSILD2015.md)
 * [Наработки анонов](4community/intro.md)
     * [Рука для углубления](4community/hand.md)
     * [Шаблон статьи](4community/hig.md)
