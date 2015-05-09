@@ -1,8 +1,9 @@
 ## Секреты осознания во сне и прямого входа от Naiya
 > Оригинал – [Naiya's DILD & WILD Secrets](http://www.dreamviews.com/induction-techniques/61802-naiyas-dild-wild-secrets.html)
 
+ Перевод серии информативных постов от Naiya, тянки с dreamviews, которая имеет по несколько осознаний за ночь. Неплохое введение в тему.  
 
-###### Перевод серии информативных постов от Naiya, тянки с dreamviews, которая имеет по несколько осознаний за ночь. Неплохое введение в тему.  
+---
 
 ### [Общие факты практики ясных сновидений](http://www.dreamviews.com/induction-techniques/61802-naiyas-dild-wild-secrets.html#post850568 "Lucid dreaming overview")
 
