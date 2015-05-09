@@ -3,6 +3,7 @@
     * [Вступление, FAQ](0chapter/FAQ.md)
     * [Рекомендации](0chapter/recommendations.md)
     * [Рука-дневник](0chapter/handiary.md)
+    * [Глоссарий](GLOSSARY.md)
 * [Переводы статей](1translations/translations.md)
     * [Советы Naiya](1translations/naiya.md)
     * [Finger Induced LD](1translations/FILD.md)

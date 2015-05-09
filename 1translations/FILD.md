@@ -1,8 +1,7 @@
 ## FILD – Вызванный Пальцами Ясный Сон
-> Оригинал – [Finger Induced Lucid Dream (FILD)](http://www.dreamviews.com/induction-techniques/4779-finger-induced-lucid-dream-fild.html)
-
 ![](/assets/fingers_piano.jpg)
 
+> Оригинал – [Finger Induced Lucid Dream (FILD)](http://www.dreamviews.com/induction-techniques/4779-finger-induced-lucid-dream-fild.html)
 >  Одна из самых результативных «новых» техник прямого входа.
 
 ----
