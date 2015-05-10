@@ -17,8 +17,9 @@
     * [Рука для углубления](4community/hand.md)
     * [Диванные идеи](4community/all.md)
     * [Шаблон статьи](4community/hig.md)
-* [Обзоры литературы](5textor/Excourse.md)
-* [Старые посты](5textor/old.md)
+* [Заметки Текстора]()
+    * [Обзоры литературы](5textor/Excourse.md)
+    * [Старые посты](5textor/old.md)
 * [Медиа о снах](4community/media.md)
 * [Алфавитный указатель](GLOSSARY.md)
 
