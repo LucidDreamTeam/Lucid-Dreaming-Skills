@@ -15,7 +15,7 @@ skype:?chat&blob=0Yl77wkGCKFvT2SorxO6YuM_F7CzORyCwBdF6VTBrM_0pryRlTAHreGkgQVlm05
 
 ### Тексты, рекомендуемые к изучению в первую очередь
 
-* Опять же, [методичка](http://dobrochan.ru/src/pdf/1301/Metodichka.pdf) – плод работы анонов с доброчана, положивших начало ОС-треду.  
+* Опять же, [Методичка по осознанным сновидениям](http://dobrochan.ru/src/pdf/1301/Metodichka.pdf) – плод работы анонов с доброчана, положивших начало ОС-треду.  
  [«Практический учебник»](http://books.aing.ru/) Михаила Радуги – книга выдающегося практика и учителя осознанных снов, которые он называет "Фазой".  
 * Стивен Лаберж [“Практика осознанных сновидений”](https://drive.google.com/file/d/0Bzg3Zq8YS-RNSXEtY2dqbzd5clk/view?usp=sharing) – книга человека, сделавшего осознанные сны предметом научного исследования, и одна из самых полных (хотя устаревших) работ по техникам вызова ОС.
 * [Вики-книга по осознанным снам](http://en.wikibooks.org/wiki/Lucid_Dreaming) - подборка информации по ОСам, и её частичный [перевод на русский](http://www.klex2.ru/5rm).
@@ -26,23 +26,14 @@ skype:?chat&blob=0Yl77wkGCKFvT2SorxO6YuM_F7CzORyCwBdF6VTBrM_0pryRlTAHreGkgQVlm05
 * [Reddit Lucid Dreaming](http://www.reddit.com/r/LucidDreaming/) – ну всё понятно.
 
 ### Для более глубокого изучения и теоретической базы:## 
-* [Advanced Lucid Dreaming: The Power of Supplements](http://www.cortexel.us/awesome/uppers/Advanced_Lucid_Dreaming-The_Power_of_Supplements.pdf)
-...
+* [«Advanced Lucid Dreaming: The Power of Supplements»](http://www.cortexel.us/awesome/uppers/Advanced_Lucid_Dreaming-The_Power_of_Supplements.pdf) – достаточно серьёзная книга о том, как при помощи различных веществ повышать качество и уровень осознанности сновидений  
+* [«Основы сомнологии: физиология и нейрохимия цикла „бодрствование-сон“»](http://lukashevichus.info/knigi/kovalzon_osnovy_somnologii.pdf) – название говорит само за себя. Единственный в своём роде учебник на русском языке.  
+* [Dreaming and the brain: toward a cognitive neuroscience of conscious states](http://assets.cambridge.org/052181/0442/excerpt/0521810442_excerpt.pdf) – довольно важная статья о природе сновидений.
+* ...
 
 <!---
 * гакенбах  
 * Хобсон  
 * Харари
 * прочие научные
--->
-
-<!---
-### Таблица аббревиатур, означающих техники и практики ясных снов 
-|Æ|АБ|l|суть|
-|---|---|---|---|
-|WILD|ПВОС|wake induced LD|прямой вход|
-|||||
-|||||
-|||||
-http://dobrochan.com/u/res/129799.xhtml
 -->

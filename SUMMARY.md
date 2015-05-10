@@ -2,8 +2,6 @@
 * [Об этой книге](README.md)
     * [Вступление, FAQ](0chapter/FAQ.md)
     * [Рекомендации](0chapter/recommendations.md)
-    * [Рука-дневник](0chapter/handiary.md)
-    * [Глоссарий](GLOSSARY.md)
 * [Переводы статей](1translations/translations.md)
     * [Советы Naiya](1translations/naiya.md)
     * [Finger Induced LD](1translations/FILD.md)
@@ -12,8 +10,11 @@
     * [Техника SSILD (v0.9)](1translations/SSILD.md)
     * [Техника SSILD (2015)](1translations/SSILD2015.md)
 * [Наработки анонов](4community/intro.md)
+    * [Классический подход](0chapter/handiary.md)
     * [Рука для углубления](4community/hand.md)
     * [Шаблон статьи](4community/hig.md)
+* [Алфавитный указатель](GLOSSARY.md)
+
 
      [Мой самоучитель](5textor/dayone01.md)
      [Проблема с терминами](5textor/terminology.md)
