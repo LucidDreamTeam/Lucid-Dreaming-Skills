@@ -1,6 +1,8 @@
 ## Техника Прямого Входа "Фри Фол" от Jeff777
-![](/assets/illustrations/1zqad5v.jpg)
-> Оригинал – [Jeff777's Free-falling WILD technique!](http://www.dreamviews.com/wake-initiated-lucid-dreams-wild/116172-jeff777s-free-falling-wild-technique.html)
+
+<center>![ff](/assets/illustrations/1zqad5v.jpg)
+
+> <center>Оригинал – [Jeff777's Free-falling WILD technique](http://www.dreamviews.com/wake-initiated-lucid-dreams-wild/116172-jeff777s-free-falling-wild-technique.html)
 
 
 #### Первый шаг - Свободное падение[^1]  
