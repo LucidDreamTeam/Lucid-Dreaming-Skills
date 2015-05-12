@@ -1,4 +1,5 @@
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> are supported
-- [x] list syntax is required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+## Галкой – то, над чем план работы определён
+
+- [x] @munsudc напишет статьи, которых сейчас нет
+ - [x] например про мелатонин
+- [ ] а далее неизвестно
