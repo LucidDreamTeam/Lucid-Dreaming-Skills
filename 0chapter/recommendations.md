@@ -22,7 +22,7 @@ skype:?chat&blob=0Yl77wkGCKFvT2SorxO6YuM_F7CzORyCwBdF6VTBrM_0pryRlTAHreGkgQVlm05
 
 ### Сайты:
 
-* [DreamViews](http://www.dreamviews.com) – один из старейших и самый крупный анлоязычный форум по осознанным снам.
+* [DreamViews](http://www.dreamviews.com) – один из старейших и самый крупный англоязычный форум по осознанным снам.
 * [Reddit Lucid Dreaming](http://www.reddit.com/r/LucidDreaming/) – ну всё понятно.
 
 ### Для более глубокого изучения и теоретической базы:## 
