@@ -1,4 +1,5 @@
      # Summary
+
 * [Об этой книге](README.md)
     * [Вступление, FAQ](0chapter/FAQ.md)
     * [Рекомендации](0chapter/recommendations.md)
@@ -24,7 +25,6 @@
     * [Обзоры литературы](5textor/Excourse.md)
     * [Старые посты](5textor/old.md)
 * [Медиа о снах](4community/media.md)
-
 
 <!---
 (5textor/intro.md)
