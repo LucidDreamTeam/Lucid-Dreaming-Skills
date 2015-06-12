@@ -1,7 +1,7 @@
 ## Индукция самосознания в сновидениях посредством фронтальной низковольтной стимуляции гамма-активности (перевод)
 
 > Оригинал: **Induction of self awareness in dreams through frontal low current stimulation of gamma activity** Nature Neuroscience, **17(6)**, 810-812, doi:10.1038/nn.3719.  
-> Авторы: Ursula Voss[^1]<sup>,</sup>[^2], Romain Holzmann[^3], Allan Hobson[^4], Walter *P*aulus[^6], Judith Koppehele-Gossel[^6], Ansgar Klimke[^2]<sup>,</sup>[^7] & Michael A Nitsche[^5]
+> Авторы: Ursula Voss[^1]<sup>,</sup>[^2], Romain Holzmann[^3], Allan Hobson[^4], Walter Paulus[^6], Judith Koppehele-Gossel[^6], Ansgar Klimke[^2]<sup>,</sup>[^7] & Michael A Nitsche[^5]
 
 ----
 
