@@ -15,4 +15,4 @@ https://ru.surveymonkey.com/r/LuCiD_ru001
 
 Спасибо за внимание.
 
-![](![](/assets/illustrations/eeg_8channel.jpg)
+![](/assets/illustrations/eeg_8channel.jpg)
