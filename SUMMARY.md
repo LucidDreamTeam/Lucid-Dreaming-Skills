@@ -14,7 +14,6 @@
     * [Мелатонин (Reddit)](1translations/melatonin01.md)
 * [Научные исследования](3science/intro.md)
     * [Электростимуляция 40 Гц](3science/tACS.md) 
-    * [Наши иcследования](5textor/intro.md)
 * [Домашние задания](2tasks/tasks.md)
     * [Пример обучения с нуля](2tasks/example.md)  
 * [Наработки анонов](4community/intro.md)
