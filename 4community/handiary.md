@@ -1,6 +1,6 @@
 ## Классический подход
 
-Это – краткая выдержка из идей Методички, но вы можете просто её [прочесть](https://drive.google.com/file/d/0Bzg3Zq8YS-RNYVlQV2Jia3U2Mlk/view?usp=sharing).
+Это – краткая выдержка из идей Методички, но вы можете просто её [прочесть](https://drive.google.com/file/d/0Bzg3Zq8YS-RNZFl2dDQyQWd2cWM/view?usp=sharing).
 
 Итак, чтобы осознаваться во сне, тебе важно развить эти три качества:
 
