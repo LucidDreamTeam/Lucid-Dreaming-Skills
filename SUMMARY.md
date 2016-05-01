@@ -13,7 +13,7 @@
         * [Микрометодичка SSILD](5textor/dayone01.md)
     * [Мелатонин (Reddit)](1translations/melatonin01.md)
 * [Научные исследования](3science/intro.md)
-    * [Электростимуляция 40 Гц](3science/tACS.md) 
+    * [Электростимуляция 40 Гц](3science/tACS.md)
 * [Навыки ясного сна](2tasks/intro.md)
     * [Бифазная практика Текстора](2tasks/TextorBiphasic.md)  
 * [Наработки анонов](4community/intro.md)
