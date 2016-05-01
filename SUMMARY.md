@@ -29,5 +29,4 @@
 <!---
 (5textor/intro.md)
 5textor/maxim.md
-
 -->
